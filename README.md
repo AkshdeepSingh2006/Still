@@ -27,7 +27,7 @@ Still was created to explore how technology can support people experiencing earl
 
 ### Home Screen
 
-![Home Screen](Screenshots/home-screen.png)
+![Home Screen](Screenshots/home.png)
 
 ### Day Overview
 
@@ -35,15 +35,15 @@ Still was created to explore how technology can support people experiencing earl
 
 ### Morning Routine
 
-![Morning Routine](Screenshots/morning-view.png)
+![Morning Routine](Screenshots/morning.png)
 
 ### What Matters
 
-![What Matters](Screenshots/what-matters.png)
+![What Matters](Screenshots/What-matters.png)
 
 ### This Moment
 
-![This Moment](Screenshots/this-moment.png)
+![This Moment](Screenshots/This-moment.png)
 
 ---
 
