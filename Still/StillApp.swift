@@ -11,7 +11,9 @@ import SwiftUI
 struct StillApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack {
+                OrientationHomeView()
+            }
         }
     }
 }
