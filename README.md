@@ -25,12 +25,6 @@ Still was created to explore how technology can support people experiencing earl
 
 ## Screenshots
 
-## Screenshots
-
-<p align="center">
-  <img src="Screenshots/home-screen.png" width="220">
-  <img src="Screenshots/what-matters.png" width="220">
-</p>
 ### Home Screen
 
 ![Home Screen](Screenshots/home.png)
